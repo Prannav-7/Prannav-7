@@ -7,8 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Firebase+Developer;Open+to+Internships" />
-</p>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /></p>
 
 ---
 
