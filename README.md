@@ -23,6 +23,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
   <a href="https://github.com/Prannav-7"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/prannav-p-73a252313/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://prannav-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
