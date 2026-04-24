@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prannav%20P&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" /></p>
 
 <h1 align="center">Hi 👋, I'm Prannav P</h1>
 <h3 align="center">🚀 Full Stack Developer | UI/UX Designer | React Enthusiast</h3>
