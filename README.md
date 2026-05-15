@@ -17,7 +17,7 @@
 💡 Passionate about building **clean, user-friendly web apps**  
 🎯 Focused on **UI/UX + Full Stack Development**  
 ⚡ Love solving real-world problems with tech  
-📍 India  
+📍 Karur,Tamil Nadu 
 
 ---
 
