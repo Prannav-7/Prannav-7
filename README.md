@@ -41,7 +41,7 @@
 
 ### ⚙️ Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,figma,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,figma,git,vscode,postman" />
 </p>
 
 ### 🗄️ Databases
