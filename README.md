@@ -103,7 +103,3 @@ To start my career as a **Full Stack Developer**, continuously learning and buil
 
 ---
 
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
