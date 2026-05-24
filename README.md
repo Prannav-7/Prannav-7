@@ -54,7 +54,7 @@
 ## 🚀 Featured Projects
 
 ✨ **ElectroStore**  
-🛒 E-commerce app with payments + AI chatbot  
+🛒 E-commerce application with add to cart,wishlist,filtering and AI chatbot  
 
 ✨ **Fresh Flow**  
 📊 React + Firebase app with admin dashboard and live demo - https://fleshflow.vercel.app/
