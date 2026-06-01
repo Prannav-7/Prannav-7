@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Prannav%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 🚀 Full Stack Developer | UI/UX Designer | React Enthusiast
