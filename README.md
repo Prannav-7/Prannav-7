@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Prannav%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Prannav%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 🚀 Full Stack Developer | UI/UX Designer | React Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;React+Developer;UI%2FUX+Designer;Always+Building+Cool+Projects"/>
 
-<img src="https://komarev.com/ghpvc/?username=Prannav-7&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Prannav-7&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ6YzI4NnN4M29xejVjNndjbDJ4MXVtN2c2eGJ4aW11b2N4bXZjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-💡 Passionate about building **modern and responsive web applications**
+💡 Passionate about creating **modern web applications**
 
-🎯 Focused on **Full Stack Development + UI/UX Design**
+🎯 Specialized in **Full Stack Development & UI/UX Design**
 
-⚡ Love solving **real-world problems using technology**
+⚡ Love solving **real-world problems with technology**
 
 📍 **Karur, Tamil Nadu**
 
-🌱 Currently learning **Advanced React & Cloud Technologies**
+🌱 Currently exploring **Cloud + Advanced React**
+
+🎯 Goal: Build products that provide **great user experiences**
 
 ---
 
@@ -48,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 ### 💻 Languages
 
@@ -59,89 +61,163 @@
 ### ⚙️ Frameworks & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,figma,postman,vscode"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,git,figma,postman,vscode"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 ElectroStore
+<table>
+<tr>
+<td width="50%">
 
-AI-Powered E-Commerce Application
+## 🛒 ElectroStore
 
-✔️ Add To Cart  
-✔️ Wishlist  
-✔️ Product Filtering  
-✔️ AI Chatbot
+### AI Powered E-Commerce Platform
+
+**Tech Stack:**  
+React • Firebase • NodeJS
+
+### Features
+
+✔️ User Authentication
+
+✔️ Wishlist & Add To Cart
+
+✔️ Product Filtering
+
+✔️ Responsive UI
+
+✔️ AI Chatbot Integration
+
+### Highlights
+
+Built a scalable shopping platform focused on **performance** and **modern UI/UX**.
+
+</td>
+
+<td width="50%">
+
+## 📊 Fresh Flow
+
+### Admin Dashboard Application
+
+**Tech Stack:**  
+React • Firebase • CSS
+
+### Features
+
+✔️ Secure Authentication
+
+✔️ Dashboard Analytics
+
+✔️ CRUD Operations
+
+✔️ Real Time Database
+
+✔️ Mobile Responsive
+
+🔗 **Live Demo:**  
+https://fleshflow.vercel.app/
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 📊 Fresh Flow
+<table>
+<tr>
+<td width="50%">
 
-React + Firebase Dashboard
+## 🗳️ Online Voting System
 
-🔗 https://fleshflow.vercel.app/
+### Secure Voting Application
 
-✔️ Authentication  
-✔️ Admin Dashboard  
-✔️ Live Data Management
+**Tech Stack:**  
+Java • Mobile Development
 
----
+### Features
 
-### 🗳️ Online Voting System
-
-Secure Mobile Voting Platform
-
-✔️ Role Based Authentication
+✔️ Role Based Login
 
 ✔️ User Verification
 
-✔️ Real Time Voting
+✔️ Secure Voting
+
+✔️ Admin Controls
+
+✔️ Live Vote Count
+
+</td>
+
+<td width="50%">
+
+## 🤖 Sentiment Analysis Project
+
+### NLP Based Research Project
+
+**Tech Stack:**  
+Python • BERT • LSTM
+
+### Features
+
+✔️ Text Classification
+
+✔️ Emotion Detection
+
+✔️ NLP Preprocessing
+
+✔️ Deep Learning Models
+
+✔️ Data Visualization
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-🥇 **Winner – Xackathon Champions 2026**  
+🥇 **Winner — Xackathon Champions 2026**
+
 💰 ₹15,000 Cash Prize
 
-🥈 **2nd Prize – Tamil Mandram Hackathon**
+🥈 **2nd Prize — Tamil Mandram Hackathon**
 
-🥉 **Academic Excellence Award**  
+🥉 **Academic Excellence Award**
+
 💰 ₹17,500 Scholarship
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-✔️ Azure AI Engineer Associate (AI-102)
+🏅 Azure AI Engineer Associate (AI-102)
 
-✔️ Python Essentials – Cisco
+🏅 Python Essentials — Cisco
 
-✔️ Robotics Course
+🏅 Robotics Course
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+# 🔥 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prannav-7&theme=tokyo-night&hide_border=true"/>
@@ -149,27 +225,43 @@ Secure Mobile Voting Platform
 
 ---
 
-## 🏅 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-## 🎯 Career Goal
+# ⚙️ Coding Activity
 
-> To start my career as a **Full Stack Developer**, continuously learning and building impactful applications with great user experience.
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prannav-7&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## ☕ Fun Fact
+# 🎯 Career Goal
+
+> To start my journey as a **Full Stack Developer**, continuously learning, creating impactful solutions, and building applications with excellent user experience.
+
+---
+
+## ☕ Developer Mindset
 
 ```javascript
-while(!success){
-    learn();
-    build();
+while(alive){
+
+    eat();
+
+    code();
+
+    debug();
+
     improve();
+
 }
 ```
 
@@ -179,6 +271,8 @@ while(!success){
 
 ### ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:92FE9D&section=footer"/>
 
 </div>
