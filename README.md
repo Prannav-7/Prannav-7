@@ -4,9 +4,9 @@
 
 # 🚀 Full Stack Developer | UI/UX Designer | React Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=Prannav-7&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Prannav-7&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-💡 Passionate about creating **modern, responsive web applications**
+💡 Passionate about building **modern and responsive web applications**
 
-🎯 Specialized in **Full Stack Development & UI/UX Design**
+🎯 Focused on **Full Stack Development + UI/UX Design**
 
-⚡ Love transforming ideas into **real-world digital products**
+⚡ Love solving **real-world problems using technology**
 
 📍 **Karur, Tamil Nadu**
 
@@ -30,7 +30,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Prannav-7">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -44,11 +44,11 @@
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -59,7 +59,7 @@
 ### ⚙️ Frameworks & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,figma,git,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,figma,postman,vscode"/>
 </p>
 
 ### 🗄️ Databases
@@ -74,23 +74,23 @@
 
 ### 🛒 ElectroStore
 
-✨ AI Powered E-Commerce Application
+AI-Powered E-Commerce Application
 
-✔️ Add to Cart  
+✔️ Add To Cart  
 ✔️ Wishlist  
 ✔️ Product Filtering  
-✔️ AI Chatbot Integration
+✔️ AI Chatbot
 
 ---
 
 ### 📊 Fresh Flow
 
-React + Firebase Admin Dashboard
+React + Firebase Dashboard
 
 🔗 https://fleshflow.vercel.app/
 
 ✔️ Authentication  
-✔️ Dashboard Analytics  
+✔️ Admin Dashboard  
 ✔️ Live Data Management
 
 ---
@@ -109,10 +109,10 @@ Secure Mobile Voting Platform
 
 ## 🏆 Achievements
 
-🥇 **Winner — Xackathon Champions 2026**  
+🥇 **Winner – Xackathon Champions 2026**  
 💰 ₹15,000 Cash Prize
 
-🥈 **2nd Prize — Tamil Mandram Hackathon**
+🥈 **2nd Prize – Tamil Mandram Hackathon**
 
 🥉 **Academic Excellence Award**  
 💰 ₹17,500 Scholarship
@@ -121,21 +121,21 @@ Secure Mobile Voting Platform
 
 ## 📜 Certifications
 
-🏅 Azure AI Engineer Associate (AI-102)
+✔️ Azure AI Engineer Associate (AI-102)
 
-🏅 Python Essentials – Cisco
+✔️ Python Essentials – Cisco
 
-🏅 Robotics Course
+✔️ Robotics Course
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -144,7 +144,7 @@ Secure Mobile Voting Platform
 ## 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prannav-7&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prannav-7&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -152,14 +152,26 @@ Secure Mobile Voting Platform
 ## 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
 
 ## 🎯 Career Goal
 
-> To begin my journey as a **Full Stack Developer**, building impactful digital experiences while continuously learning and growing in technology.
+> To start my career as a **Full Stack Developer**, continuously learning and building impactful applications with great user experience.
+
+---
+
+## ☕ Fun Fact
+
+```javascript
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
