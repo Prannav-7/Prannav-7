@@ -224,13 +224,6 @@ Python • BERT • LSTM
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
 
 # ⚙️ Coding Activity
 
