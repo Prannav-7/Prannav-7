@@ -225,15 +225,6 @@ Python • BERT • LSTM
 ---
 
 
-# ⚙️ Coding Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prannav-7&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🎯 Career Goal
 
