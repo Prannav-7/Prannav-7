@@ -208,7 +208,6 @@ Python • BERT • LSTM
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
 
