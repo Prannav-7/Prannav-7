@@ -1,260 +1,195 @@
+# <div align="center">Hi 👋 I'm Prannav P</div>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Prannav%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 🚀 Full Stack Developer | UI/UX Designer | React Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;React+Developer;UI%2FUX+Designer;Always+Building+Cool+Projects"/>
-
-<img src="https://komarev.com/ghpvc/?username=Prannav-7&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;React+Developer;Hackathon+Winner;Always+Learning+New+Technologies" />
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prannav-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ6YzI4NnN4M29xejVjNndjbDJ4MXVtN2c2eGJ4aW11b2N4bXZjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 🚀 About Me
 
-## 👨‍💻 About Me
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
-💡 Passionate about creating **modern web applications**
+🎓 B.Sc Software Systems Student at Kongu Engineering College
 
-🎯 Specialized in **Full Stack Development & UI/UX Design**
+💻 Passionate Full Stack Developer
 
-⚡ Love solving **real-world problems with technology**
+🎨 UI/UX Design Enthusiast
 
-📍 **Karur, Tamil Nadu**
+🏆 Hackathon Winner
 
-🌱 Currently exploring **Cloud + Advanced React**
+🌱 Currently learning Advanced React, Firebase and Cloud Technologies
 
-🎯 Goal: Build products that provide **great user experiences**
+📫 Reach me at: **[prannav2511@gmail.com](mailto:prannav2511@gmail.com)**
+
+⚡ Fun Fact: I love turning ideas into real-world applications.
+
+<br clear="both"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/Prannav-7">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/prannav-p-73a252313/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://prannav-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
+<a href="mailto:prannav2511@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,git,figma,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,git,figma,vscode,postman" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🛒 ElectroStore
 
-## 🛒 ElectroStore
+* React-based E-Commerce Application
+* AI Chatbot Integration
+* Online Payment Support
+* Responsive User Interface
 
-### AI Powered E-Commerce Platform
+### 🌱 Fresh Flow
 
-**Tech Stack:**  
-React • Firebase • NodeJS
+* React + Firebase Application
+* Authentication & Cart Management
+* Admin Dashboard
+* Sales Tracking Features
 
-### Features
+### 🗳️ Online Voting System
 
-✔️ User Authentication
-
-✔️ Wishlist & Add To Cart
-
-✔️ Product Filtering
-
-✔️ Responsive UI
-
-✔️ AI Chatbot Integration
-
-### Highlights
-
-Built a scalable shopping platform focused on **performance** and **modern UI/UX**.
-
-</td>
-
-<td width="50%">
-
-## 📊 Fresh Flow
-
-### Admin Dashboard Application
-
-**Tech Stack:**  
-React • Firebase • CSS
-
-### Features
-
-✔️ Secure Authentication
-
-✔️ Dashboard Analytics
-
-✔️ CRUD Operations
-
-✔️ Real Time Database
-
-✔️ Mobile Responsive
-
-🔗 **Live Demo:**  
-https://fleshflow.vercel.app/
-
-</td>
-
-</tr>
-</table>
+* Mobile Application Prototype
+* Role-Based Access Control
+* Database Integration
+* Secure Voting Workflow
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## 🏆 Achievements
 
-## 🗳️ Online Voting System
+🥇 Winner – Xackathon Hackathon (₹15,000)
 
-### Secure Voting Application
+🥈 2nd Prize – Tamil Mandram Hackathon
 
-**Tech Stack:**  
-Java • Mobile Development
-
-### Features
-
-✔️ Role Based Login
-
-✔️ User Verification
-
-✔️ Secure Voting
-
-✔️ Admin Controls
-
-✔️ Live Vote Count
-
-</td>
-
-<td width="50%">
-
-## 🤖 Sentiment Analysis Project
-
-### NLP Based Research Project
-
-**Tech Stack:**  
-Python • BERT • LSTM
-
-### Features
-
-✔️ Text Classification
-
-✔️ Emotion Detection
-
-✔️ NLP Preprocessing
-
-✔️ Deep Learning Models
-
-✔️ Data Visualization
-
-</td>
-
-</tr>
-</table>
+🥉 Academic Excellence Award (₹17,500)
 
 ---
 
-# 🏆 Achievements
+## 📜 Certifications
 
-🥇 **Winner — Xackathon Champions 2026**
+✔ Microsoft Azure AI Engineer Associate (AI-102)
 
-💰 ₹15,000 Cash Prize
+✔ Python Essentials – Cisco Networking Academy
 
-🥈 **2nd Prize — Tamil Mandram Hackathon**
-
-🥉 **Academic Excellence Award**
-
-💰 ₹17,500 Scholarship
+✔ Robotics Course – Mechatronics Department
 
 ---
 
-# 📜 Certifications
-
-🏅 Azure AI Engineer Associate (AI-102)
-
-🏅 Python Essentials — Cisco
-
-🏅 Robotics Course
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prannav-7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prannav-7&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
+## 🏅 GitHub Trophies
 
+<p align="center">
 
-# 🎯 Career Goal
+<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-> To start my journey as a **Full Stack Developer**, continuously learning, creating impactful solutions, and building applications with excellent user experience.
+</p>
 
 ---
 
-## ☕ Developer Mindset
+## 🌱 Currently Learning
 
-```javascript
-while(alive){
-
-    eat();
-
-    code();
-
-    debug();
-
-    improve();
-
-}
+```mermaid
+mindmap
+  root((Learning))
+    React Advanced
+    Firebase
+    Cloud Computing
+    Azure AI
+    Full Stack Development
+    Data Structures
 ```
+
+---
+
+## 💼 Career Objective
+
+Aspiring Full Stack Developer seeking opportunities to contribute to innovative projects, enhance technical expertise, and build impactful software solutions.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:92FE9D&section=footer"/>
+### ⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
