@@ -1,195 +1,146 @@
-# <div align="center">Hi 👋 I'm Prannav P</div>
+# PRANNAV P
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;React+Developer;Hackathon+Winner;Always+Learning+New+Technologies" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prannav-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+> **B.Sc. Software Systems Student | Full-Stack Developer | AI Enthusiast**
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-
-🎓 B.Sc Software Systems Student at Kongu Engineering College
-
-💻 Passionate Full Stack Developer
-
-🎨 UI/UX Design Enthusiast
-
-🏆 Hackathon Winner
-
-🌱 Currently learning Advanced React, Firebase and Cloud Technologies
-
-📫 Reach me at: **[prannav2511@gmail.com](mailto:prannav2511@gmail.com)**
-
-⚡ Fun Fact: I love turning ideas into real-world applications.
-
-<br clear="both"/>
+I'm a passionate Software Systems student with a strong interest in Full-Stack Development, Artificial Intelligence, and UI/UX Design. I enjoy building modern web applications, solving real-world problems, and continuously learning new technologies. My goal is to create scalable, user-friendly software that delivers meaningful impact.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/Prannav-7">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/prannav-p-73a252313/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://prannav-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
-<a href="mailto:prannav2511@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
+## 🚀 Skills
 
 ### Programming Languages
+- Python
+- Java
+- C
+- SQL
+- JavaScript
+- HTML5
+- CSS3
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
-</p>
+### Frontend
+- React.js
+- Responsive Web Design
+- Figma
 
-### Frameworks & Tools
+### Backend & Database
+- Firebase
+- REST APIs
+- n8n
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,git,figma,vscode,postman" />
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+### Cloud & Tools
+- Microsoft Azure (AI-102)
+- Git
+- GitHub
+- Vercel
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
-### 🛒 ElectroStore
+### 🛒 FreshFlow – Full-Stack Grocery E-Commerce Platform
+**Tech Stack:** React.js, Firebase, Firestore, Firebase Authentication, Vercel
 
-* React-based E-Commerce Application
-* AI Chatbot Integration
-* Online Payment Support
-* Responsive User Interface
+- Built a production-ready grocery marketplace.
+- Implemented secure authentication.
+- Real-time shopping cart and order management.
+- Admin dashboard for inventory and sales analytics.
+- Fully responsive design.
 
-### 🌱 Fresh Flow
+---
 
-* React + Firebase Application
-* Authentication & Cart Management
-* Admin Dashboard
-* Sales Tracking Features
+### 🤖 ElectroStore – AI Shopping Platform
+**Tech Stack:** React.js, REST API, AI Chatbot
 
-### 🗳️ Online Voting System
+- Developed an AI-powered shopping application.
+- Integrated payment gateway.
+- Wishlist and cart management.
+- AI chatbot for product recommendations.
+- Responsive user interface.
 
-* Mobile Application Prototype
-* Role-Based Access Control
-* Database Integration
-* Secure Voting Workflow
+---
+
+### 🎙 Tamil Speech-to-Text
+**Tech Stack:** React.js, HTML, CSS
+
+- Developed a bilingual responsive landing page.
+- Designed for regional language accessibility.
+- Awarded **2nd Prize** at Tamil Mandram Hackathon.
+
+---
+
+### 🗳 Online Voting System
+**Tech Stack:** Mobile UI, Database Design
+
+- Secure voting application prototype.
+- Role-based authentication.
+- Voter, Candidate, and Admin modules.
+- Mobile-friendly interface.
+
+---
+
+## 💼 Internship Experience
+
+### CodSoft — Web Development Intern
+**June 2024 – July 2024**
+
+- Developed responsive websites.
+- Built portfolio website.
+- Created product landing page.
+- Developed JavaScript calculator.
+
+---
+
+### CodSoft — UI/UX Design Intern
+**August 2024 – September 2024**
+
+- Designed mobile and web interfaces.
+- Created high-fidelity prototypes.
+- Improved user experience using Figma.
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Winner – Xackathon Hackathon (₹15,000)
-
-🥈 2nd Prize – Tamil Mandram Hackathon
-
-🥉 Academic Excellence Award (₹17,500)
+- 🥇 1st Place — Xackathon (₹15,000 Prize)
+- 🥈 2nd Place — Tamil Mandram Hackathon
+- 🥉 Academic Excellence Award
+- 📄 Technical Paper Presentation – Underwater Life Communication
 
 ---
 
 ## 📜 Certifications
 
-✔ Microsoft Azure AI Engineer Associate (AI-102)
-
-✔ Python Essentials – Cisco Networking Academy
-
-✔ Robotics Course – Mechatronics Department
+- Microsoft Azure AI Engineer Associate (AI-102)
+- Cisco Python Essentials
+- Robotics Fundamentals
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Interests
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prannav-7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Full-Stack Development
+- Artificial Intelligence
+- Machine Learning
+- UI/UX Design
+- Cloud Computing
+- Data Analytics
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Connect With Me
 
-<p align="center">
+📧 **Email:** prannav2511@gmail.com
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prannav-7&theme=tokyo-night&hide_border=true"/>
+🌐 **Portfolio:** https://prannav-portfolio.vercel.app
 
-</p>
+💼 **LinkedIn:** https://linkedin.com/in/prannav-p-73a252313
 
----
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"z />
-</pv>
-
+💻 **GitHub:** https://github.com/Prannav-7
 
 ---
 
-## 🌱 Currently Learning
-
-```mermaid
-mindmap
-  root((Learning))
-    React Advanced
-    Firebase
-    Cloud Computing
-    Azure AI
-    Full Stack Development
-    Data Structures
-```
-
----
-
-## 💼 Career Objective
-
-Aspiring Full Stack Developer seeking opportunities to contribute to innovative projects, enhance technical expertise, and build impactful software solutions.
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+⭐ *"Code with passion, build with purpose, and keep learning every day."*
