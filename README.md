@@ -103,6 +103,9 @@ I'm a passionate Software Systems student with a strong interest in Full-Stack D
 
 ---
 
+## 🤖 Sentiment Analysis Project 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/BERT-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/LSTM-teal?style=for-the-badge"/>
+
 ## 🏆 Achievements
 
 - 🥇 1st Place — Xackathon (₹15,000 Prize)
