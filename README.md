@@ -1,149 +1,249 @@
-# PRANNAV P
+<div align="center">
 
-> **B.Sc. Software Systems Student | Full-Stack Developer | AI Enthusiast**
+# 👋 Hi, I'm PRANNAV P
+
+### 💻 B.Sc. Software Systems Student | 🚀 Full-Stack Developer | 🤖 AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;AI+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Technologies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&row=1&column=6"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a passionate Software Systems student with a strong interest in Full-Stack Development, Artificial Intelligence, and UI/UX Design. I enjoy building modern web applications, solving real-world problems, and continuously learning new technologies. My goal is to create scalable, user-friendly software that delivers meaningful impact.
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 B.Sc Software Systems Student
+
+💻 Passionate Full-Stack Developer
+
+🤖 Interested in Artificial Intelligence
+
+🎨 UI/UX Designer
+
+☁ Microsoft Azure AI-102 Certified
+
+🚀 Love building scalable web applications
+
+📚 Always learning new technologies
 
 ---
 
-## 🚀 Skills
+# 🛠 Tech Stack
 
 ### Programming Languages
-- Python
-- Java
-- C
-- SQL
-- JavaScript
-- HTML5
-- CSS3
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
+</p>
 
 ### Frontend
-- React.js
-- Responsive Web Design
-- Figma
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,figma"/>
+</p>
 
 ### Backend & Database
-- Firebase
-- REST APIs
-- n8n
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,nodejs"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+</p>
 
 ### Cloud & Tools
-- Microsoft Azure (AI-102)
-- Git
-- GitHub
-- Vercel
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,git,github,vercel,vscode"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📊 GitHub Stats
 
-### 🛒 FreshFlow – Full-Stack Grocery E-Commerce Platform
-**Tech Stack:** React.js, Firebase, Firestore, Firebase Authentication, Vercel
+<p align="center">
 
-- Built a production-ready grocery marketplace.
-- Implemented secure authentication.
-- Real-time shopping cart and order management.
-- Admin dashboard for inventory and sales analytics.
-- Fully responsive design.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Prannav-7&show_icons=true&theme=tokyonight"/>
 
----
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannav-7&theme=tokyonight"/>
 
-### 🤖 ElectroStore – AI Shopping Platform
-**Tech Stack:** React.js, REST API, AI Chatbot
-
-- Developed an AI-powered shopping application.
-- Integrated payment gateway.
-- Wishlist and cart management.
-- AI chatbot for product recommendations.
-- Responsive user interface.
+</p>
 
 ---
 
-### 🎙 Tamil Speech-to-Text
-**Tech Stack:** React.js, HTML, CSS
+# 🚀 Featured Projects
 
-- Developed a bilingual responsive landing page.
-- Designed for regional language accessibility.
-- Awarded **2nd Prize** at Tamil Mandram Hackathon.
+## 🛒 FreshFlow
 
----
+<img src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=900"/>
 
-### 🗳 Online Voting System
-**Tech Stack:** Mobile UI, Database Design
+**Tech Stack**
 
-- Secure voting application prototype.
-- Role-based authentication.
-- Voter, Candidate, and Admin modules.
-- Mobile-friendly interface.
+React.js • Firebase • Firestore • Authentication • Vercel
 
----
+✔ Secure Authentication
 
-## 💼 Internship Experience
+✔ Real-time Shopping Cart
 
-### CodSoft — Web Development Intern
-**June 2024 – July 2024**
+✔ Order Management
 
-- Developed responsive websites.
-- Built portfolio website.
-- Created product landing page.
-- Developed JavaScript calculator.
+✔ Admin Dashboard
+
+✔ Responsive Design
 
 ---
 
-### CodSoft — UI/UX Design Intern
-**August 2024 – September 2024**
+## 🤖 ElectroStore
 
-- Designed mobile and web interfaces.
-- Created high-fidelity prototypes.
-- Improved user experience using Figma.
+<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900"/>
 
----
+React.js • REST API • AI Chatbot
 
-## 🤖 Sentiment Analysis Project 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/BERT-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/LSTM-teal?style=for-the-badge"/>
+✔ AI Shopping Assistant
 
-## 🏆 Achievements
+✔ Payment Gateway
 
-- 🥇 1st Place — Xackathon (₹15,000 Prize)
-- 🥈 2nd Place — Tamil Mandram Hackathon
-- 🥉 Academic Excellence Award
-- 📄 Technical Paper Presentation – Underwater Life Communication
+✔ Wishlist
+
+✔ Cart
+
+✔ Responsive UI
 
 ---
 
-## 📜 Certifications
+## 🎙 Tamil Speech-to-Text
 
-- Microsoft Azure AI Engineer Associate (AI-102)
-- Cisco Python Essentials
-- Robotics Fundamentals
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=900"/>
 
----
+React.js • HTML • CSS
 
-## 🎯 Interests
-
-- Full-Stack Development
-- Artificial Intelligence
-- Machine Learning
-- UI/UX Design
-- Cloud Computing
-- Data Analytics
+🏆 2nd Prize – Tamil Mandram Hackathon
 
 ---
 
-## 📫 Connect With Me
+## 🗳 Online Voting System
 
-📧 **Email:** prannav2511@gmail.com
+<img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=900"/>
 
-🌐 **Portfolio:** https://prannav-portfolio.vercel.app
+✔ Role-based Authentication
 
-💼 **LinkedIn:** https://linkedin.com/in/prannav-p-73a252313
+✔ Mobile Friendly
 
-💻 **GitHub:** https://github.com/Prannav-7
+✔ Admin Dashboard
+
+✔ Secure Voting
 
 ---
 
-⭐ *"Code with passion, build with purpose, and keep learning every day."*
+# 💼 Internship Experience
+
+## 💻 CodSoft — Web Development
+
+📅 June 2024 – July 2024
+
+- Portfolio Website
+- Landing Page
+- Calculator
+- Responsive Websites
+
+---
+
+## 🎨 CodSoft — UI/UX Design
+
+📅 August 2024 – September 2024
+
+- Mobile UI
+- Web UI
+- High Fidelity Prototype
+- Figma
+
+---
+
+# 🤖 AI Project
+
+## Sentiment Analysis using NLP
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/BERT-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Xackathon Winner (₹15,000)
+
+🥈 Tamil Mandram Hackathon
+
+🥉 Academic Excellence Award
+
+📄 Technical Paper Presentation
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft Azure AI Engineer Associate (AI-102)
+
+🏅 Cisco Python Essentials
+
+🏅 Robotics Fundamentals
+
+---
+
+# ❤️ Interests
+
+💻 Full Stack Development
+
+🤖 Artificial Intelligence
+
+📊 Machine Learning
+
+🎨 UI/UX Design
+
+☁ Cloud Computing
+
+📈 Data Analytics
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:prannav2511@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prannav-p-73a252313">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Prannav-7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://prannav-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Code with passion, build with purpose, and keep learning every day.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+
+</div>
