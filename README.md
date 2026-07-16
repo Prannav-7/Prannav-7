@@ -78,8 +78,6 @@
 
 ## 🛒 FreshFlow
 
-<img src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=900"/>
-
 **Tech Stack**
 
 React.js • Firebase • Firestore • Authentication • Vercel
@@ -98,8 +96,6 @@ React.js • Firebase • Firestore • Authentication • Vercel
 
 ## 🤖 ElectroStore
 
-<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900"/>
-
 React.js • REST API • AI Chatbot
 
 ✔ AI Shopping Assistant
@@ -116,8 +112,6 @@ React.js • REST API • AI Chatbot
 
 ## 🎙 Tamil Speech-to-Text
 
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=900"/>
-
 React.js • HTML • CSS
 
 🏆 2nd Prize – Tamil Mandram Hackathon
@@ -125,8 +119,6 @@ React.js • HTML • CSS
 ---
 
 ## 🗳 Online Voting System
-
-<img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=900"/>
 
 ✔ Role-based Authentication
 
