@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;AI+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Technologies"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prannav-7&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
